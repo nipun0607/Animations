@@ -4,10 +4,10 @@ https://nipun0607.github.io/Animations/
 # Screenshots->
 ![image](https://github.com/nipun0607/Animations/assets/126556793/58bcf825-50f8-4c62-b93c-a0d1b94e8627)
 # descriptions:->
-In html
+# html
 'div' tag is used as container tag.
 'img' tag is used to insert the image.
-In css 
+# css 
 i have use for body -margin, padding, box-sizingpropertis.
 for container i have use width,height,and background-color properties ,
 for main ihave use width,height,display-flex propertis,justify-contents ,align-items values gives as well ,
